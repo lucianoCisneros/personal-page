@@ -15,7 +15,6 @@
 }
 
 .menu ul {
-    list-style: none;
     padding: 0;
     display: flex;
 }
@@ -26,7 +25,6 @@
 
 .menu a {
     color: #fff;
-    text-decoration: none;
     padding: 7px 10px;
     transition: .3s;
     border-radius: 5px;
