@@ -2,6 +2,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    height: 50px;
 }
   
 .logo {
@@ -55,10 +56,16 @@
     border-radius: 2px;
 }
   
-@media screen and (max-width: 768px) {
+@media (max-width: 768px) {
+    .header-container {
+        display: flex;
+        justify-content: center;
+    }
+
     .header {
         justify-content: space-between;
-        padding: 20px;
+        width: 80%;
+        height: 70px;
     }
 
     .menu {
@@ -66,7 +73,7 @@
         flex-direction: column;
         align-items: center;
         position: absolute;
-        top: 61px;
+        top: 70px;
         left: 0;
         width: 100vw;
         background-color: #585858;
