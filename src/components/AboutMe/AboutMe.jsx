@@ -7,7 +7,7 @@ const AboutMe = () => (
                 <h1 className="about-me__title">Hello, my name is Luciano Cisneros</h1>
 
                 <p className="presentation">
-                    A creative <span className='highlight'>front end</span> developer from Buenos Aires, Argentina.
+                    A full stack dev, but have really found a passion for <span className='highlight'>front end</span> development.
                 </p>
             </div>
             <div className='portrait'>

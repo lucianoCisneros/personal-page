@@ -1,0 +1,53 @@
+.experience__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 60px;
+}
+
+.experience {
+    margin-bottom: 20px;
+}
+
+.experience, .education {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.experience__title {
+    color: #ffff;
+    border-bottom: 2px solid #27ae60;
+    font-weight: 500;
+}
+ 
+.position__container {
+    display: flex;
+    align-items: flex-start;
+    margin-top: 25px;
+}
+
+.logo {
+    width: 50px;
+    margin: 3px 15px 0 0;
+}
+
+.experience-position__title {
+    color: #ffff;
+    margin-bottom: 5px;
+    font-weight: 500
+}
+
+.experience__description {
+    margin-bottom: 10px;
+}
+
+.experience__description, .experience__year {
+    color: #E0E0E0;
+    font-weight: 400;
+}

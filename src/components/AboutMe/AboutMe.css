@@ -1,24 +1,24 @@
 .about-me__container {
     display: flex;
     justify-content: center;
-    margin-top: 60px;
+    height: 95vh;
 }
 
 .about-me {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-content: center;
+    padding-bottom: 20px;
     width: 80%;
 }
 
 .about-me__title {
     color: #ffff;
-    margin-bottom: 5px;
 }
 
 .presentation {
     color: #E0E0E0;
+    margin-top: 8px;
 }
 
 .highlight {
@@ -26,9 +26,9 @@
 }
 
 .portrait {
-   margin-top: 40px;
    display: flex;
    justify-content: center;
+   margin-top: 25px;
 }
 
 .about-me__image {
