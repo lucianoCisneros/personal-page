@@ -1,0 +1,30 @@
+.proyects__section {
+    margin: auto;
+    width: 80%;
+}
+
+.proyect__img {
+    width: 100%;
+    height: 50%;
+    border-radius: 10px 10px 0 0;
+}
+
+.proyect__card {
+    margin-top: 30px;
+}
+
+.proyect__info {
+    width: 100%;
+    background-color: #fff;
+    border-radius: 0 0 5px 5px;
+    margin-top: -4px;
+}
+
+.proyect__title {
+    padding: 20px 20px 10px 20px;
+}
+
+.proyect__description {
+    padding: 0 20px 20px 20px;
+    color: #1D2126;
+}
