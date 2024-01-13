@@ -6,7 +6,7 @@ const Experience = () => (
             <h2 className='experience__title'>Experience</h2>
 
             <div className='position__container'>
-                <img className='logo' src="/artear-logo.png" alt="" />
+                <img className='ed-logo' src="/artear-logo.png" alt="" />
 
                 <div>
                     <h3 className='experience-position__title'>Front-end Developer</h3>
@@ -21,7 +21,7 @@ const Experience = () => (
             <h2 className='experience__title'>Education</h2>
 
             <div className='position__container'>
-                <img className='logo' src="/dh-logo.png" alt="" />
+                <img className='ed-logo' src="/dh-logo.png" alt="" />
 
                 <div>
                     <h3 className='experience-position__title'>Full Stack Developer</h3>
@@ -37,7 +37,7 @@ const Experience = () => (
             </div>
 
             <div className='position__container'>
-                <img className='logo' src="/ch-logo.png" alt="" />
+                <img className='ed-logo' src="/ch-logo.png" alt="" />
 
                 <div>
                     <h3 className='experience-position__title'>Front End Development</h3>

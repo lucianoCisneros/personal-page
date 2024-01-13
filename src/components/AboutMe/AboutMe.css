@@ -1,14 +1,13 @@
 .about-me__container {
     display: flex;
     justify-content: center;
-    height: 95vh;
+    height: 100vh;
 }
 
 .about-me {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding-bottom: 20px;
     width: 80%;
 }
 
