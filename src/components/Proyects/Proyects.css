@@ -1,5 +1,6 @@
 .proyects__section {
     margin: auto;
+    margin-bottom: 60px;
     width: 80%;
 }
 
@@ -27,4 +28,5 @@
 .proyect__description {
     padding: 0 20px 20px 20px;
     color: #1D2126;
+    font-weight: 400;
 }
